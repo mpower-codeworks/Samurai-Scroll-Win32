@@ -17,3 +17,4 @@ While indeed a short game, Samurai Scroll has charm and replayability.
         </td>
     </tr>
 </table>
+It is my hope that Samurai Scroll will continue to inspire those interested in making a small tile-based game, as it has done for me. Some fun experiments might be changing the graphics, changing the music, changing the title screen -- all easily done without a single line of code. 
