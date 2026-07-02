@@ -9,10 +9,10 @@ While indeed a short game, Samurai Scroll has charm and replayability.
 
 <table>
     <tr>
-        <td align="left" width="50%" valign="top">
+        <td align="left" width="30%" valign="top">
             <img src="Images/title.jpg" width="100%" alt="title_screen"><br>
         </td>
-        <td align="left" width="50%" valign="top">
+        <td align="left" width="70%" valign="top">
             <img src="Images/game-full.jpg" width="100%" alt="royal_bed"><br>
         </td>
     </tr>
