@@ -24,4 +24,4 @@ If you'd like to modify the code and rebuild, you can use Visual Studio or Tiny 
 
 You can modify the map in the file modSamuraiGame.c - good luck!
 
-Samurai Scroll Win32 runs on Windows 7 through 11. A Windows 2000/XP build is within reach, if anyone is interested.
+Samurai Scroll Win32 runs on Windows 7 through 11.
