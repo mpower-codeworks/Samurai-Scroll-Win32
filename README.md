@@ -20,7 +20,7 @@ While indeed a short game, Samurai Scroll has charm and replayability.
 
 It is my hope that Samurai Scroll will continue to inspire those interested in making a small tile-based game, as it has done for me. Some fun experiments might be changing the graphics, changing the music, changing the title screen -- all easily done without a single line of code.
 
-If you'd like to modify the code and rebuild, you can use Visual Studio or Tiny C Compiler. The differences in resulting exe sizes might be of interest. Once installed, from command prompt run build_msvc.bat or build_tcc.bat.
+If you'd like to modify the code and rebuild, you can use Visual Studio. Once VS is installed, from command prompt run build_msvc.bat.
 
 You can modify the map in the file modSamuraiGame.c - good luck!
 
