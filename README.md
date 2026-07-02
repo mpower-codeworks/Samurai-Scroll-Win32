@@ -23,3 +23,5 @@ It is my hope that Samurai Scroll will continue to inspire those interested in m
 If you'd like to modify the code and rebuild, you can use Visual Studio or Tiny C Compiler. The differences in resulting exe sizes might be of interest. Once installed, from command prompt run build_msvc.bat or build_tcc.bat.
 
 You can modify the map in the file modSamuraiGame.c - good luck!
+
+Samurai Scroll Win32 runs on Windows 7 through 11. A Windows 2000/XP build is within reach, if anyone is interested.
