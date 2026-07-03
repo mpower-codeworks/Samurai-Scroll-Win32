@@ -1,7 +1,7 @@
 /*
     / / / / / / / / /
   / / frmMain.c / /
-/ / / / / / / / /
+/ / / / / / / / / 
 
 Samurai Scroll main window and message dispatch
 
