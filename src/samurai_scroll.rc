@@ -1,0 +1,10 @@
+/*
+    / / / / / / / / / / / / /
+  / / samurai_scroll.rc / /
+/ / / / / / / / / / / / /
+
+add the icon
+
+*/
+
+1 ICON "assets\\icon.ico"
