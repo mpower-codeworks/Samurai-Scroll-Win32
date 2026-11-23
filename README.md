@@ -66,3 +66,5 @@ Samurai Scroll Win32 runs on Windows 7 through 11.
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚖𝚘𝚍𝚒𝚏𝚢 𝚝𝚑𝚎 𝚖𝚊𝚙 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚕𝚎 𝚖𝚘𝚍𝚂𝚊𝚖𝚞𝚛𝚊𝚒𝙶𝚊𝚖𝚎.𝚌 - 𝚐𝚘𝚘𝚍 𝚕𝚞𝚌𝚔!
 
 𝚂𝚊𝚖𝚞𝚛𝚊𝚒 𝚂𝚌𝚛𝚘𝚕𝚕 𝚆𝚒𝚗𝟹𝟸 𝚛𝚞𝚗𝚜 𝚘𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟽 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝟷𝟷.
+
+<img src="Images/sam.png" width="100" alt="sam">
