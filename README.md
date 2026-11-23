@@ -1,4 +1,4 @@
-# 𝐒𝐚𝐦𝐮𝐫𝐚𝐢 𝐒𝐜𝐫𝐨𝐥𝐥 𝐖𝐢𝐧𝟑𝟐
+# 𝐒𝐚𝐦𝐮𝐫𝐚𝐢 𝐒𝐜𝐫𝐨𝐥𝐥 𝐖𝐢𝐧𝟑𝟐 侍の巻物
 <img src="Images/logo.jpg" align="left" width="100" alt="Samurai Logo">
 <!--
 Samurai Scroll Win32 is a C port of a small tile-based RPG from
