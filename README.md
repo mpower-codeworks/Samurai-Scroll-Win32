@@ -6,10 +6,13 @@ Samurai Scroll Win32 is a C port of a small tile-based RPG from
 is to preserve this little gem before it disappears from the 
 Internet.
 -->
+<br>
+
 𝚂𝚊𝚖𝚞𝚛𝚊𝚒 𝚂𝚌𝚛𝚘𝚕𝚕 𝚆𝚒𝚗𝟹𝟸 𝚒𝚜 𝚊 𝙲 𝚙𝚘𝚛𝚝 𝚘𝚏 𝚊 𝚜𝚖𝚊𝚕𝚕 𝚝𝚒𝚕𝚎-𝚋𝚊𝚜𝚎𝚍 𝚁𝙿𝙶 𝚏𝚛𝚘𝚖
 𝟷𝟿𝟿𝟿. 𝙸𝚝 𝚠𝚊𝚜 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕𝚕𝚢 𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝚅𝙱𝟼 𝚋𝚢 𝙹𝚎𝚜𝚜𝚎 𝙰𝚌𝚘𝚜𝚝𝚊. 𝚃𝚑𝚎 𝚒𝚍𝚎𝚊
 𝚒𝚜 𝚝𝚘 𝚙𝚛𝚎𝚜𝚎𝚛𝚟𝚎 𝚝𝚑𝚒𝚜 𝚕𝚒𝚝𝚝𝚕𝚎 𝚐𝚎𝚖 𝚋𝚎𝚏𝚘𝚛𝚎 𝚒𝚝 𝚍𝚒𝚜𝚊𝚙𝚙𝚎𝚊𝚛𝚜 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎
 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝.
+
 
 <!--
 This version retains the graphics and gameplay while adding full-screen 
@@ -21,6 +24,7 @@ to Jesse's original.
 𝚊𝚗𝚍 𝚜𝚘𝚖𝚎 𝚏𝚞𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚎𝚖𝚎𝚗𝚝𝚜 𝚝𝚑𝚊𝚝 𝚏𝚒𝚝 𝚠𝚒𝚝𝚑𝚒𝚗 𝚝𝚑𝚎 𝚜𝚙𝚒𝚛𝚒𝚝 𝚘𝚏 𝚝𝚑𝚎 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕. 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚞𝚜𝚎 𝙵𝟷𝟷 𝚝𝚘 𝚝𝚘𝚐𝚐𝚕𝚎 𝚝𝚘 𝚠𝚒𝚗𝚍𝚘𝚠𝚎𝚍-𝚖𝚘𝚍𝚎, 𝚠𝚑𝚒𝚌𝚑 𝚖𝚊𝚔𝚎𝚜 𝚒𝚝 𝚒𝚍𝚎𝚗𝚝𝚒𝚌𝚊𝚕 
 𝚝𝚘 𝙹𝚎𝚜𝚜𝚎'𝚜 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕.
+
 
 <!--
 While indeed a short game, Samurai Scroll has charm and replayability.
